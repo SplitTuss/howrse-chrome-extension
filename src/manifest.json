@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Howrse Chrome Extension",
-  "description": "A howrse chrome extension built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "description": "A howrse chrome extension",
   "options_page": "options.html",
   "background": {
     "service_worker": "background.bundle.js"
